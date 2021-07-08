@@ -45,4 +45,8 @@ module.exports = {
     "Even Faster Points": {
         description: "Even Faster Points:  Changes slowmode time to 5 seconds.  Spends 300 points.",
         cost: 300
-    } */
+    } 
+    "Doubler": {
+        description:  "Doubler:  Multiplies point gain by 2!  Spends 1000 points.",
+        cost:  1000
+    }*/
